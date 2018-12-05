@@ -1,6 +1,6 @@
-# AQ <(Air Quality)>
+# AQ (Air Quality) App
 
-<p>Air quality has always been important but has become more of an issue in recent years with the increase of forest fires and the resulting smoke affecting nearby cities. Thanks to the [Open Air] (https://openaq.org) API, this app helps users find out about the current air quality in their city. </p>
+<p>Air quality has always been important but has become more of an issue in recent years with the increase of forest fires and the resulting smoke affecting nearby cities. Thanks to the [Open Air](https://openaq.org) API, this app helps users find out about the current air quality in their city. </p>
 
 ## Build Setup
 
